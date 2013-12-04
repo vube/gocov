@@ -23,7 +23,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/axw/gocov"
+	"github.com/vube/gocov"
 	"go/token"
 	"io/ioutil"
 	"math"

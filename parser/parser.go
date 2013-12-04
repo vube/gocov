@@ -22,8 +22,8 @@ package parser
 
 import (
 	"fmt"
-	"github.com/axw/gocov"
-	"github.com/axw/gocov/gocovutil"
+	"github.com/vube/gocov"
+	"github.com/vube/gocov/gocovutil"
 	"go/scanner"
 	"go/token"
 	"io/ioutil"
